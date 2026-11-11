@@ -20,7 +20,6 @@
 | 50–55 min | 1 exercice très difficile (au choix, l'autre en travail personnel) |
 | 55–60 min | Bilan oral + travail personnel |
 
-> **Méthode professeur :** si le temps manque, privilégier les exercices 1, 2, 5, 7, 9 et 11. La démonstration de $E(X)=np$ (exercice 10) peut rester en travail personnel.
 
 ---
 
